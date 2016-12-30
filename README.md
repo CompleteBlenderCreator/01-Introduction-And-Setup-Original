@@ -14,7 +14,8 @@ Enjoy yourselves.
 
 Ben Tristem & Michael Bridges
 
-## I&S00 Promo Video
+## IS00 Promo Video
+## IS09b What You Can Now Make
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
