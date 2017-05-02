@@ -118,6 +118,3 @@ the course is structured.
 + You will see there are limitations to doing this.
 
 ### Section 1 Wrap Up ###
-
----
-Find out more about our [Complete Blender Creator Course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount).
