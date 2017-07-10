@@ -117,4 +117,7 @@ the course is structured.
 + Placeholders and rough Mockups
 + You will see there are limitations to doing this.
 
+### Quick Win: Moving Around Your Model
++ Michael goes through a really easy way of moving around your model and viewing it from different angles
+
 ### Section 1 Wrap Up ###
