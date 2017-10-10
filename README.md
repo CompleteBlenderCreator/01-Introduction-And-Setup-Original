@@ -80,14 +80,15 @@ the course is structured.
 + Tell us how you overcame the challenge.
 + [Solved] Prefix to Discussion Title.
 
-### Blender Layout Overview ###
+### 4 Blender Layout Overview ###
 
 + Blender looks the same on same on all platforms.
 + How to switch and change layouts.
 + The main sections of the Blender interface.
 + How to move and change Blender's layout.
++ Updated: 10/10/2017
 
-### Advanced Layout Control ###
+### 5 Advanced Layout Control ###
 
 + Re-enforce Layout behaviour.
 + How to effortlessly switch between layouts.
@@ -107,7 +108,7 @@ the course is structured.
 + …still highly recommend a 3 button mouse and full size keyboard wherever possible.
 + Later on a stylus for artwork.
 
-#### Blender's Visuals 
+#### Blender's Visuals
 + You can change the appearance of Blender.
 + Personalise the interface.
 + Make it easier for you to see.
