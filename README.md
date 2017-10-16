@@ -8,7 +8,7 @@ You will start by mastering Blender's interface, move onto basic block
 modelling. We'll then make a bowling set, a chess set, a lamp, a bunny and
 more.
 
-### Welcome to The Course ###
+### 1 Welcome to The Course ###
 
 + We’re excited because we get to see you change
 + Mikey’s your main instructor, Ben supporting
@@ -19,6 +19,7 @@ more.
 + Please ensure you download these now.
 + Store them in a project folder on the computer.
 + They will be referred to in various lectures.
++ Updated (16/10/2017)
 
 ### What's Coming up... ###
 
