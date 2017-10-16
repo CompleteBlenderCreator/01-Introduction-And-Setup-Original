@@ -123,6 +123,8 @@ the course is structured.
 
 ### 10 What You Can Now Make
 
++ Basic how to render using Open GL rendering
++ How to Save a render
 + We can add basic shapes, transform them
 + Limited knowledge usually inspires creativity
 + Placeholders and rough Mockups
