@@ -1,12 +1,13 @@
-### Promo Video & Model List ###
+### 0 Promo Video & Model List ###
 
 + Michael is a IT tutor and 3D artist.
 + Ben is one of Udemy's top instructors.
 + You'll learn to make assets for games, 3D printing, home design and more.
 
-You will start by mastering Blender's interface, move onto basic block
++ You will start by mastering Blender's interface, move onto basic block
 modelling. We'll then make a bowling set, a chess set, a lamp, a bunny and
 more.
++ (Updated 04/11/2017)
 
 ### 1 Welcome to The Course ###
 
