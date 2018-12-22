@@ -148,3 +148,5 @@ the course is structured.
 + Michael goes through a really easy way of moving around your model and viewing it from different angles
 
 ### 12 Section 1 Wrap Up ###
+
+### 99 More Updates Soon
