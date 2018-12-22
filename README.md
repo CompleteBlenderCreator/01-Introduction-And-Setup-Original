@@ -17,6 +17,11 @@ modelling. We'll then make a bowling set, a chess set, a lamp, a bunny and
 more.
 + (Updated 04/11/2017)
 
+### 0a NEW CONTENT START
+
+Video letting student know about the new content and the sudden jump to older content later on.
+Sections 1 2 and 3 will be replaced in one big lump.
+
 ### 1 Welcome to The Course ###
 
 + We’re excited because we get to see you change
